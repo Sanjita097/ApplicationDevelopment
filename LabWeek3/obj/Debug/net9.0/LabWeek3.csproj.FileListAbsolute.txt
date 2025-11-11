@@ -1,0 +1,15 @@
+/Users/sanjitachaudhary/RiderProjects/ConsoleApp1/LabWeek3/bin/Debug/net9.0/LabWeek3
+/Users/sanjitachaudhary/RiderProjects/ConsoleApp1/LabWeek3/bin/Debug/net9.0/LabWeek3.deps.json
+/Users/sanjitachaudhary/RiderProjects/ConsoleApp1/LabWeek3/bin/Debug/net9.0/LabWeek3.runtimeconfig.json
+/Users/sanjitachaudhary/RiderProjects/ConsoleApp1/LabWeek3/bin/Debug/net9.0/LabWeek3.dll
+/Users/sanjitachaudhary/RiderProjects/ConsoleApp1/LabWeek3/bin/Debug/net9.0/LabWeek3.pdb
+/Users/sanjitachaudhary/RiderProjects/ConsoleApp1/LabWeek3/obj/Debug/net9.0/LabWeek3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjitachaudhary/RiderProjects/ConsoleApp1/LabWeek3/obj/Debug/net9.0/LabWeek3.AssemblyInfoInputs.cache
+/Users/sanjitachaudhary/RiderProjects/ConsoleApp1/LabWeek3/obj/Debug/net9.0/LabWeek3.AssemblyInfo.cs
+/Users/sanjitachaudhary/RiderProjects/ConsoleApp1/LabWeek3/obj/Debug/net9.0/LabWeek3.csproj.CoreCompileInputs.cache
+/Users/sanjitachaudhary/RiderProjects/ConsoleApp1/LabWeek3/obj/Debug/net9.0/LabWeek3.sourcelink.json
+/Users/sanjitachaudhary/RiderProjects/ConsoleApp1/LabWeek3/obj/Debug/net9.0/LabWeek3.dll
+/Users/sanjitachaudhary/RiderProjects/ConsoleApp1/LabWeek3/obj/Debug/net9.0/refint/LabWeek3.dll
+/Users/sanjitachaudhary/RiderProjects/ConsoleApp1/LabWeek3/obj/Debug/net9.0/LabWeek3.pdb
+/Users/sanjitachaudhary/RiderProjects/ConsoleApp1/LabWeek3/obj/Debug/net9.0/LabWeek3.genruntimeconfig.cache
+/Users/sanjitachaudhary/RiderProjects/ConsoleApp1/LabWeek3/obj/Debug/net9.0/ref/LabWeek3.dll
